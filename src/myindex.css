@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+a {
+    margin: 10px;
+}
+
+a, a:visited {
+    color: black;
+}
+
+a.current {
+    color: red;
+}
